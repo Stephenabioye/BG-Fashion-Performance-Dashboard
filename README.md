@@ -27,4 +27,4 @@ for BG Fashion, covering 104 stores and $112.56M in total annual sales.
 - Reduce overreliance on Fashions Direct
 
 ## Dashboard Preview
-![BG Fashion Dashboard](BG Fashion Performance Dashboard.pdf)
+BG Fashion Performance Dashboard.pdf
